@@ -1,4 +1,4 @@
-# 🌱 Plant Disease Detection Using Deep Learning  
+# 🌱 Plant Disease Classification Using Deep Learning  
 
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-Enabled-blue)  
 ![Python](https://img.shields.io/badge/Python-3.7%2B-green)  
