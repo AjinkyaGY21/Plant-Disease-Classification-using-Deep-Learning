@@ -134,6 +134,17 @@ During training, the system generates:
 - Accuracy and loss plots for training vs validation
 - Test accuracy for each configuration (mode + model type)
 
+### 🌟 CNN Performance Plots  
+
+- **Live Demo**:  
+  View Live: [https://claude.site/artifacts/46734783-75d3-4d86-97e0-4a0070f96eae](https://claude.site/artifacts/46734783-75d3-4d86-97e0-4a0070f96eae)
+
+### 🌟 ResNet and VGGNet Performance Plots
+
+- **Live Demo**:  
+  View Live: [https://claude.site/artifacts/0a7199ee-8f86-489b-addb-d7ac75dfe8b6](https://claude.site/artifacts/0a7199ee-8f86-489b-addb-d7ac75dfe8b6)
+
+
 ---
 
 ## 🌟 Acknowledgments
