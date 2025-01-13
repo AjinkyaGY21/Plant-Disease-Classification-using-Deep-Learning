@@ -10,7 +10,7 @@ This project implements a deep learning solution for detecting plant diseases us
 
 ## 🚀 Features
 
-- 🕼️ **Multi-Mode Image Processing**: color, grayscale, segmented
+- 🕼️ **Multi-Mode Image Processing**: color, greyscale, segmented
 - 🧠 **CNN Architectures**:
   - Custom CNN
   - ResNet50
